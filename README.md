@@ -8,3 +8,4 @@ Classification of MNIST Data
 4. Activation functions = relu, softmax
 5. Loss =  categorical_crossentropy
 6. Batch normalization employed
+Google colab used.
